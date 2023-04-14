@@ -6,7 +6,7 @@ Description:
 */
 #include "S_to_B_Header.h"
 /*
-Function: tong
+Function: Convert_to_Binary
 Description:
 Input:
 Output:
